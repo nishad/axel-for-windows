@@ -1,6 +1,6 @@
 # axel-for-windows (v.2.4)
 
-[[http://i56.tinypic.com/2crak9u.png]]
+![](http://i56.tinypic.com/2crak9u.png)
 
 Usage: axel [options] url1 [url2] [url...]
 
