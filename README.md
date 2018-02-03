@@ -2,6 +2,8 @@
 
 ![](http://i56.tinypic.com/2crak9u.png)
 
+# NOTE: If you don't know how to use it, just run Axel.cmd instead!
+
 Usage: axel [options] url1 [url2] [url...]
 
 -max-speed=x -s x Specify maximum speed (bytes per second)
